@@ -3,5 +3,5 @@
 
 <div>
     <img src="https://github.com/rush71/files/blob/main/gifs_rush.jpg" alt=""> <br>
-    Link: <a href="https://rush-gifs.netlify.app/">Rush-gifs</a>
+    <b>Link:</b> <a href="https://rush-gifs.netlify.app/">Rush-gifs</a>
 </div>
